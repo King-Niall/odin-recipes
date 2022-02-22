@@ -1,0 +1,92 @@
+h1 {
+    margin: auto;
+    background-color: black;
+    color: white;
+    width: 40%;
+    padding: 50px;
+    text-align: center;
+    align-self: center;
+}
+
+h2 {
+    margin: auto;
+    background-color: black;
+    color: white;
+    width: 40%;
+    padding: 20px;
+    text-align: center;
+    align-self: center;
+}
+
+.ingredient-item-header{
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    width: 37em;
+    padding: 15px;
+    background-color: rgb(100, 98, 98);
+    display: block;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navi {
+    text-align: center;
+}
+
+.ingredients {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.instructions {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ingredient-item {
+    margin-top: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    width: 47em;
+    padding: 15px;
+    background-color: rgb(190, 187, 187);
+    display: block;
+}
+
+.instruction-item {
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    width: 47em;
+    padding: 25px;
+    background-color: rgb(221, 215, 215);
+    display: list-item;
+}
+
+.listitem{
+    display: inline-block;
+}
+
+.listitem-deco{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    width: 17em;
+    padding: 25px;
+    background-color: red;
+    display: block;
+}
